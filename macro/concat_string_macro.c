@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// #  will be converter too "" string
+// #  will be converted too "" string
 // ## will concatenate 
 
 #define CMD(NAME) \
